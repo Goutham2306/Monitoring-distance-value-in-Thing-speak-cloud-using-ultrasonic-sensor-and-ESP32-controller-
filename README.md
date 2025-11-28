@@ -243,7 +243,8 @@ long microsecondsToCentimeters(long microseconds)
 # OUTPUT:
 <img width="1637" height="790" alt="image" src="https://github.com/user-attachments/assets/b15d1649-5476-47ac-a36f-914d3209e1f6" />
 
-![Uploading image.png…]()
+<img width="1890" height="67" alt="image" src="https://github.com/user-attachments/assets/ee8e2056-061a-44f0-b86b-22612c14ba74" />
+
 <img width="1465" height="701" alt="image" src="https://github.com/user-attachments/assets/55934f00-be83-4d62-93a3-230a2e46cc4c" />
 
 
